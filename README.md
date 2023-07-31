@@ -1,6 +1,8 @@
 # Project Submisson at Ideamagix 
 # Hamza Shaikh 
-
+#App Apk link:https://drive.google.com/file/d/1M_0rg4rPj2kJf4k4rE_7JZ0rUJCsnuxv/view?usp=drive_link
+#videp link:https://drive.google.com/file/d/1loTgMf3OUWP-4UxRrxfdXBX7j5mIuA_T/view?usp=drive_link
+#folder Link:https://drive.google.com/file/d/1lhKxjtHc7ejSI-zippiDcpQ7oEa5Wf28/view?usp=drive_link
 
 ## Directory Structure
 ```
